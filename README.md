@@ -1,3 +1,5 @@
-Opción 3 — Para portafolio/profesional
+Actividad del RA5 – Pagina con JavaScript
 
-Proyecto RA5: página web construida empleando tecnologías web estándar (HTML, CSS y JavaScript), organizada en un repositorio que utiliza Git para el control de versiones y GitHub como plataforma remota de almacenamiento. El proyecto incluye una página de inicio (INDEX.HTML), un módulo de operaciones (operaciones.html) y soporte visual y funcional mediante estilos y scripts.
+Este repositorio contiene el desarrollo del proyecto RA5, enfocado en la creación de una página web funcional e interactiva utilizando HTML, CSS y JavaScript. El proyecto incluye una página principal y secciones adicionales que permiten realizar operaciones básicas, integrando diseño visual y lógica de programación.
+
+El repositorio refleja el uso de Git y GitHub como herramientas de control de versiones, permitiendo llevar un registro ordenado de los cambios realizados durante el desarrollo y fortaleciendo las buenas prácticas en proyectos web.
