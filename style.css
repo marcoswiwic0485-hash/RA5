@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url("https://cdn.pixabay.com/photo/2017/03/27/16/56/dolomites-2179642_1280.jpg");
+    background-size: cover;
+    background-position: center;
+    margin: 0;
+    height: 100vh;
+}
+
+.contenedor {
+    background-color: rgb(246, 241, 241);
+    width: 400px;
+    margin: auto;
+    margin-top: 100px;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+input {
+    padding: 8px;
+    width: 90%;
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #246dcc;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #1a5bb8;
+}

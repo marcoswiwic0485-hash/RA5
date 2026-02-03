@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Operaciones Matemáticas</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+</head>
+<body>
+
+    <h1>Resultados de las operaciones</h1>
+    <div id="resultados"></div>
+
+    <script>
+
+        function suma(a, b) {
+            return "El resultado de la suma es " + (a + b);
+        }
+
+        function resta(a, b) {
+            return "El resultado de la resta es " + (a - b);
+        }
+
+        function multiplicacion(a, b) {
+            return "El resultado de la multiplicación es " + (a * b);
+        }
+
+        function division(a, b) {
+            return "El resultado de la división es " + (a / b);
+        }
+
+        document.getElementById("resultados").innerHTML = `
+            <p>${suma(20, 27)}</p>
+            <p>${resta(50, 15)}</p>
+            <p>${multiplicacion(6, 8)}</p>
+            <p>${division(40, 5)}</p>
+        `;
+    </script>
+
+</body>
+</html>
